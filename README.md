@@ -1,4 +1,4 @@
-# SMB Bruteforce Script
+# SMB BruteForce 
 
 ## Introduction
 
@@ -12,8 +12,8 @@ This script prompts the user for a target IP address, a username, and the path t
 
 ## Features
 
-- Validation of IP address to ensure valid inputs.
-- Checking for the existence of the password list file.
+- Validation of `IP address` to ensure valid inputs.
+- Checking for the existence of the `password list` file.
 - Tracking progress during the brute-force process.
 - Detailed logging of login attempts in a log file.
 
@@ -24,13 +24,13 @@ This script prompts the user for a target IP address, a username, and the path t
 
 ## Notices
 
-- Using this script on systems without explicit permission may violate privacy and security laws.
+- Using this script on systems `without explicit permission may violate privacy and security laws`.
 - This script should only be used for educational purposes or on systems where the user has explicit authorization to test security.
 
 ## How to Use
 
-1. Enter the target SMB server's IP address.
-2. Enter the username to be tested.
-3. Provide the full path to the password list file.
-4. Wait while the script attempts to log in to the SMB server using the passwords from the provided list.
-5. If a correct password is found, it will be displayed on the screen and logged in the log file.
+- Enter the target SMB server's IP address.
+- Enter the username to be tested.
+- Provide the full path to the password list file.
+- Wait while the script attempts to log in to the SMB server using the passwords from the provided list.
+- If a correct password is found, it will be displayed on the screen and logged in the log file.
