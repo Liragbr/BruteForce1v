@@ -1,4 +1,4 @@
-# SMB BruteForce 
+# SMB BruteForce 1.0v
 
 ## Introduction
 
